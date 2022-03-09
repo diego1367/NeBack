@@ -1,0 +1,12 @@
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\bin\Debug\net5.0\Nexos.Core.deps.json
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\bin\Debug\net5.0\Nexos.Core.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\bin\Debug\net5.0\ref\Nexos.Core.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\bin\Debug\net5.0\Nexos.Core.pdb
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.csproj.AssemblyReference.cache
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.AssemblyInfoInputs.cache
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.AssemblyInfo.cs
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.csproj.CoreCompileInputs.cache
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\ref\Nexos.Core.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Core\obj\Debug\net5.0\Nexos.Core.pdb

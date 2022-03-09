@@ -1,0 +1,17 @@
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Application.deps.json
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Application.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\ref\Nexos.Application.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Application.pdb
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Core.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Infrastructure.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Core.pdb
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\bin\Debug\net5.0\Nexos.Infrastructure.pdb
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.csproj.AssemblyReference.cache
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.AssemblyInfoInputs.cache
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.AssemblyInfo.cs
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.csproj.CoreCompileInputs.cache
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.csproj.CopyComplete
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\ref\Nexos.Application.dll
+C:\Users\diegoguzman\source\repos\Nexos\Nexos.Application\obj\Debug\net5.0\Nexos.Application.pdb
